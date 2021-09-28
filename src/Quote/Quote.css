@@ -1,0 +1,24 @@
+.insipiration__card{
+  background: linear-gradient(35deg, rgba(145, 240, 253, 0.651), rgba(245, 173, 185, 0.658));
+  margin: 25px;
+  padding: 5px;
+  border-radius: 10px;
+  box-shadow: -15px 15px 10px rgba(0,0,0,0.3);
+  z-index: 3;
+}
+
+.insipiration__card h1{
+  padding: 5px;
+  font-size: 30px;
+}
+
+.insipiration__card h2{
+  padding: 10px;
+  font-size: 20px;
+}
+
+.insipiration__card h4{
+  padding-left: 10px;
+  padding-bottom: 5px;
+  font-size: 12px;
+}
